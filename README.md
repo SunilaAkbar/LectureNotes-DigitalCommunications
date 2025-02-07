@@ -1,1 +1,1 @@
-# LectureNotes-DigitalCommunications
+# Lecture Notes - Digital Communications
